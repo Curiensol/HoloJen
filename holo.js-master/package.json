@@ -1,0 +1,36 @@
+{
+  "name": "holojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/build",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcanuste/holojs.git"
+  },
+  "keywords": [
+    "hologram",
+    "javascript",
+    "threejs"
+  ],
+  "author": "mcanuste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcanuste/holojs/issues"
+  },
+  "homepage": "https://github.com/mcanuste/holojs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9"
+  },
+  "dependencies": {
+  }
+}
